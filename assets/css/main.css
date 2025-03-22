@@ -610,6 +610,13 @@ section,
   .hero p {
     font-size: 20px;
   }
+
+  .container.section-title.about p:nth-child(1) {
+    margin-top: 69px !important;
+    margin-bottom: 25px;
+}
+
+
 }
 
 /*--------------------------------------------------------------
